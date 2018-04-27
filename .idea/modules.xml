@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Welle.iml" filepath="$PROJECT_DIR$/Welle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WaveForAndroid.iml" filepath="$PROJECT_DIR$/WaveForAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -137,6 +137,7 @@ public class MainActivity extends AppCompatActivity {
             state = STATE.STATE_HOLDING;
             mHintTxt.setText(hintByState(state));
             mCounterTxt.setText(String.format("%d", counter));
+            mPhaseTxt.setText(String.format(getResources().getString(R.string.title_phase_frmt), scheme[currentPhaseIndex]));
         }
     }
 
