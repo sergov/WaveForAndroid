@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Welle</string>
+    <string name="title_phase">Stufe 20 Sek.</string>
+    <string name="msg_paused">Pausiert</string>
+    <string name="msg_hold">Halten...</string>
+    <string name="msg_rest">Ruhen...</string>
+    <string name="msg_getready">Achtung!</string>
+    <string name="msg_start">Tippe auf "Start"</string>
+    <string name="title_phase_frmt">Stufe %d Sek.</string>
+    <string name="title_start">Start/Pause</string>
+    <string name="title_stop">Stopp</string>
+    <string name="title_reset">Zurücksetzen</string>
+</resources>

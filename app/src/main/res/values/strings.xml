@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wave</string>
+    <string name="title_phase">Phase 20 sec</string>
+    <string name="msg_paused">Paused</string>
+    <string name="msg_hold">Holding...</string>
+    <string name="msg_rest">Resting...</string>
+    <string name="msg_getready">Get ready!</string>
+    <string name="msg_start">Press "Start"</string>
+    <string name="title_phase_frmt">Phase %d sec</string>
+    <string name="title_start">Start/Pause</string>
+    <string name="title_stop">Stop</string>
+    <string name="title_reset">Reset</string>
+</resources>
